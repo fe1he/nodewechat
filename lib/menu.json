@@ -10,7 +10,7 @@
                     "key": "menu1"
                 },
                 {
-                    "name": "扫二维码",
+                    "name": "扫码",
                     "type": "scancode_push",
                     "key": "codeScan"
                 }
