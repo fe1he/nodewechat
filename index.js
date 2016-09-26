@@ -1,5 +1,5 @@
 var app = require('express')(),
-    bodyParser = require('body-parser')，
+    bodyParser = require('body-parser'),
     conf = require('./lib/config'),
     wechat = require('./lib/wechat');
 
