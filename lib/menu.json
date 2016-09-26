@@ -7,6 +7,11 @@
                     "name": " 子菜单 ",
                     "type": "click",
                     "key": "menu1"
+                },
+                {
+                    "name": "扫码",
+                    "type": "scancode_push",
+                    "key": "codeScan"
                 }
             ]
         },
